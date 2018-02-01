@@ -2,6 +2,12 @@
 
 Import [Paddle](https://paddle.com)'s javascript library, configure vendor settings and easily create checkout buttons.
 
+## Usage, licensing and support
+
+This code is provided as an example plugin to implement the Paddle checkout on a Wordpress site. End users may use or modify the code as required subject to the [license](http://www.apache.org/licenses/LICENSE-2.0.txt) included.
+
+Paddle does not provide technical support or maintenance for this plugin or any derivations of it.
+
 ## Instructions
 
 * Upload the plugin as a zipped archive to the Wordpress plugins tab
