@@ -1,4 +1,4 @@
-# Wordpress Paddle plugin
+# WordPress Paddle plugin
 
 Import [Paddle](https://paddle.com)'s javascript library, configure vendor settings and easily create checkout buttons.
 
