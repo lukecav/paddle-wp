@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin name: Paddle WP
-Description: A plugin to enable the Paddle checkout on a Wordpress site.
+Description: A plugin to enable the Paddle checkout on a WordPress site.
 Author: Ed Long
 Author URI: https://paddle.com
 Version: 0.1
